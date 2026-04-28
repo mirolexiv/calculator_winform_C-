@@ -1,0 +1,11 @@
+﻿  FormCalc.cpp
+D:\C++\WinForms\002\Calculator\Calculator\FormCalc.h(493,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "FormCalc.cpp")
+  
+D:\C++\WinForms\002\Calculator\Calculator\FormCalc.h(538,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "FormCalc.cpp")
+  
+  FormCalc.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator.vcxproj -> D:\C++\WinForms\002\Calculator\x64\Debug\Calculator.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
